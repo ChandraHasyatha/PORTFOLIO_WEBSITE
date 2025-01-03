@@ -6,6 +6,7 @@ DURATION:DEC12TH,2024 TO JAN 12TH 2025
 
 Overview of the Personal Portfolio Website Project-
 ![Screenshot 2025-01-03 215214](https://github.com/user-attachments/assets/d9a68937-479e-4b72-998a-3b4495d3d45c)
+![Screenshot 2025-01-03 215234](https://github.com/user-attachments/assets/7cf1a93e-7987-4fd6-9364-86092c91ff21)
 
 This project is a personal portfolio website built using HTML, CSS, and JavaScript. It is designed to showcase your skills, projects, and experience in a visually appealing and interactive way. The website incorporates modern CSS techniques and JavaScript animations using the GSAP library to create a smooth, dynamic user experience.
 
