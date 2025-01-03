@@ -3,7 +3,9 @@ COMPANY:CODTECH IT SOLUTIONS
 ID:CT08DIF
 DOMAIN:FRONTEND WEB DEVELOPMENT
 DURATION:DEC12TH,2024 TO JAN 12TH 2025
+
 Overview of the Personal Portfolio Website Project-
+![Screenshot 2025-01-03 215214](https://github.com/user-attachments/assets/d9a68937-479e-4b72-998a-3b4495d3d45c)
 
 This project is a personal portfolio website built using HTML, CSS, and JavaScript. It is designed to showcase your skills, projects, and experience in a visually appealing and interactive way. The website incorporates modern CSS techniques and JavaScript animations using the GSAP library to create a smooth, dynamic user experience.
 
